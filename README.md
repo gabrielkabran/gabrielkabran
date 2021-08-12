@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gabrielkabran
+- 👀 I’m interested in interviews and job opportunities
+- 🌱 I’m currently learning Web Applications, Mobile Applications, C, Algorithm Complexity, Data Structure, DB Organization, Object-oriented Programming. 
+- 📫 How to reach me: https://www.linkedin.com/in/gabrielferreirasena/ or +55 11 9 4395-9686 (Whatsapp)
